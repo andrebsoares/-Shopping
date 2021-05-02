@@ -6,8 +6,6 @@
    Projeto criado durante o curso Dominando Layouts no Flutter do balta.io
 </h4>
 
-=================
-
 #### **Tópicos**
 
 - **Layouts e componentes**
