@@ -5,6 +5,7 @@
 <h4 align="center">
    Projeto criado durante o curso Dominando Layouts no Flutter do balta.io
 </h4>
+
 =================
 
 #### **Tópicos**
