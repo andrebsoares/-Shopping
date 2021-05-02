@@ -1,16 +1,33 @@
-# shopping
+<h1 align="center">
+   Shopping
+</h1>
 
-A new Flutter project.
+<h4 align="center">
+   Projeto criado durante o curso Dominando Layouts no Flutter do balta.io
+</h4>
+=================
 
-## Getting Started
+#### **Tópicos**
 
-This project is a starting point for a Flutter application.
+- **Layouts e componentes**
+- **Organização do projeto (pages, widgets)**
+- **Temas**
+- **Formulários**
+- **Animações com Hero e Animation Controller**
+- **Icones**
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Como executar o projeto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Pré-requisitos
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
+- [Git](https://git-scm.com)
+- [Flutter](https://balta.io/blog/flutter-instalacao-configuracao-android-windows).
+- Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+```bash
+  # Clone este repositório
+  $ https://github.com/andrebsoares/-Shopping.git && cd -Shopping
+  $ flutter run
+```
